@@ -3,3 +3,4 @@
 Contributors:
 
 - Colt Steele
+- Elie Schoppik
